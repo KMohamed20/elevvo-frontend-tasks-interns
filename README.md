@@ -18,7 +18,7 @@
 
 ## 📌 Project Overview
 
-This repository contains **6 progressive frontend development tasks** completed during my internship at **Elevvo**. Each task demonstrates mastery of core web technologies and modern development practices, ranging from responsive UI components to complex interactive dashboards.
+This repository contains **6 progressive frontend development tasks** completed during my remote internship at **Elevvo**. Each task demonstrates mastery of core web technologies and modern development practices, ranging from responsive UI components to complex interactive dashboards.
 
 ### 🎯 Learning Objectives Achieved
 - ✅ **Modern CSS Architecture** - Flexbox, Grid, Custom Properties, Animations
@@ -258,9 +258,9 @@ class ModalManager {
 ### Core Technologies
 | Technology | Usage | Proficiency |
 |------------|-------|-------------|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | Semantic structure, Forms, Canvas | ⭐⭐⭐⭐⭐ |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | Flexbox, Grid, Animations, Custom Properties | ⭐⭐⭐⭐⭐ |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ES6+, OOP, DOM, Event Handling | ⭐⭐⭐⭐⭐ |
+| **HTML5** | Semantic structure, Forms, Canvas | ⭐⭐⭐⭐⭐ |
+| **CSS3** | Flexbox, Grid, Animations, Custom Properties | ⭐⭐⭐⭐⭐ |
+| **JavaScript** | ES6+, OOP, DOM, Event Handling | ⭐⭐⭐⭐⭐ |
 
 ### Advanced APIs & Features
 | API/Feature | Implementation | Complexity |
@@ -691,9 +691,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elevvopaths@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
 
-📍 **Location:** Cairo, Egypt  
+📍 **Location:** Niamey, Niger  
 🎓 **Specialization:** Modern Frontend Development  
-💼 **Position:** Frontend Development Intern @ Elevvo  
+💼 **Position:** Remote Frontend Development Intern @ Elevvo  
 
 </div>
 
@@ -709,7 +709,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🎉 Acknowledgments
 
 ### 🙏 Special Thanks
-- **Elevvo Team** - For providing this amazing internship opportunity
+- **Elevvo Team** - For providing this amazing remote internship opportunity
 - **Web Development Community** - For the inspiration and resources
 - **Open Source Contributors** - For the tools and libraries used
 - **MDN Web Docs** - For comprehensive web technology documentation
@@ -724,7 +724,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏷️ Tags & Keywords
 
-`#HTML5` `#CSS3` `#JavaScript` `#ResponsiveDesign` `#WebDevelopment` `#Frontend` `#UI` `#UX` `#Performance` `#Accessibility` `#ModernWeb` `#Internship` `#Portfolio` `#OpenSource` `#WebDesign` `#Animation` `#Dashboard` `#Modal` `#Slider` `#Forms` `#Validation` `#Canvas` `#SVG` `#Mobile` `#Progressive` `#ES6`
+`#HTML5` `#CSS3` `#JavaScript` `#ResponsiveDesign` `#WebDevelopment` `#Frontend` `#UI` `#UX` `#Performance` `#Accessibility` `#ModernWeb` `#RemoteInternship` `#Portfolio` `#OpenSource` `#WebDesign` `#Animation` `#Dashboard` `#Modal` `#Slider` `#Forms` `#Validation` `#Canvas` `#SVG` `#Mobile` `#Progressive` `#ES6`
 
 ---
 
@@ -732,7 +732,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ If you found this project helpful, please give it a star!
 
-**Made with ❤️ and ☕ in Cairo, Egypt**
+**Made with ❤️ and ☕ in Niamey, Niger**
 
 *Last updated: August 2025*
 
